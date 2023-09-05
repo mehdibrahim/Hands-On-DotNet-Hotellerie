@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Hotellerie-Mehdi",
+    "\\Hotellerie-Mehdi\\Migrations",
+    "\\Hotellerie-Mehdi\\Models",
+    "\\Hotellerie-Mehdi\\Models\\HotellerieModel",
+    "\\Hotellerie-Mehdi\\Views",
+    "\\Hotellerie-Mehdi\\Views\\Hotels"
+  ],
+  "SelectedNode": "\\Hotellerie-Mehdi\\Models\\HotellerieModel\\HotellerieDbContext.cs",
+  "PreviewInSolutionExplorer": false
+}
